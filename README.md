@@ -1,0 +1,1 @@
+Developed a dynamic quiz application using JavaScript and Object-Oriented Programming (OOP) principles. The app features seamless API integration for fetching questions, ensuring an engaging and up-to-date user experience.
